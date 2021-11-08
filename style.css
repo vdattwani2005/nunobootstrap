@@ -42,7 +42,7 @@ body{
 
 /*--- Slider --*/
 .carousel-item {
-  height: 75vh;
+  height: 100vh;
 }
 
 .carousel-caption {
